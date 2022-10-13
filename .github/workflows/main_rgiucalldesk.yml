@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rgiucalldesk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57113D36A1C34FCD841F076401C67865 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EF1D67E8EBD4C68BFBFAB46C6794A23 }}
           package: .
